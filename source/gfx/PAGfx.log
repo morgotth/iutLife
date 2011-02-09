@@ -1,0 +1,36 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Magenta
+
+13 sprites :
+  miniTir : 256colors, 8x8, Pal : tir_Pal, -> miniTir_Sprite
+  salveTir : 256colors, 16x16, Pal : tir_Pal, -> salveTir_Sprite
+  tir : 256colors, 16x16, Pal : tir_Pal, -> tir_Sprite
+  Laser : 256colors, 32x64, Pal : tir_Pal, -> Laser_Sprite
+  Octopus : 256colors, 16x32, Pal : ennemis_Pal, -> Octopus_Sprite
+  Crab : 256colors, 32x64, Pal : ennemis_Pal, -> Crab_Sprite
+  Squid : 256colors, 32x64, Pal : ennemis_Pal, -> Squid_Sprite
+  Boss : 256colors, 64x32, Pal : ennemis_Pal, -> Boss_Sprite
+  Boss2 : 256colors, 64x32, Pal : ennemis_Pal, -> Boss2_Sprite
+  Boss3 : 256colors, 64x32, Pal : ennemis_Pal, -> Boss3_Sprite
+  Boss4 : 256colors, 64x32, Pal : ennemis_Pal, -> Boss4_Sprite
+  ship : 256colors, 32x32, Pal : sprites_Pal, -> ship_Sprite
+  Asteroide : 256colors, 64x64, Pal : Asteroide_Pal, -> Asteroide_Sprite
+
+2 backgrounds :
+  backg : TileBg, 256x384, Pal : backg_Pal, 341 tiles -> backg_Tiles and backg_Map
+  espace : TileBg, 256x192, Pal : espace_Pal, 757 tiles -> espace_Tiles and espace_Map
+
+6 palettes :
+  tir_Pal, 162 colors
+  ennemis_Pal, 120 colors
+  sprites_Pal, 11 colors
+  Asteroide_Pal, 158 colors
+  backg_Pal, 31 colors
+  espace_Pal, 59 colors
+
+Converted in 0 minutes 1 seconds
+
+Finished !
