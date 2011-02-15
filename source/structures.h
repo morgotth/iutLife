@@ -1,3 +1,9 @@
+/**
+ * iutLife O.6
+ * \file structures.h
+ * \author morgotth
+ * \date 2009
+ **/
 #ifndef STRUCTURES_H
 #define STRUCTURES_H
 

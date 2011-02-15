@@ -1,3 +1,9 @@
+/**
+ * iutLife O.6
+ * \file sprites.c
+ * \author morgotth
+ * \date 2009
+ **/
 #include "sprites.h"
 
 // initialisation d'une structure Boss avec le boss demandé (par l'entier numBoss

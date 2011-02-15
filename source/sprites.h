@@ -1,3 +1,9 @@
+/**
+ * iutLife O.6
+ * \file sprites.h
+ * \author morgotth
+ * \date 2009
+ **/
 #ifndef SPRITES_H
 #define SPRITES_H
 

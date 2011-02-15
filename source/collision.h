@@ -1,3 +1,9 @@
+/**
+ * iutLife O.6
+ * \file collision.h
+ * \author morgotth
+ * \date 2009
+ **/
 #ifndef COLLISION_H
 #define COLLISION_H
 #include "structures.h"

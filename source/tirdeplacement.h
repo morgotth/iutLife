@@ -1,3 +1,9 @@
+/**
+ * iutLife O.6
+ * \file tirdeplacement.h
+ * \author morgotth
+ * \date 2009
+ **/
 #ifndef TIRDEPLACEMENT_H
 #define TIRDEPLACEMENT_H
 

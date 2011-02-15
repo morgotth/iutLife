@@ -1,3 +1,9 @@
+/**
+ * iutLife O.6
+ * \file tirdeplacement.c
+ * \author morgotth
+ * \date 2009
+ **/
 #include "tirdeplacement.h"
 
 void deplacementSpritePad (int numEcran, int numSprite, int* x, int* y)

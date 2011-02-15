@@ -1,3 +1,9 @@
+/**
+ * iutLife O.6
+ * \file spaceInvaders.c
+ * \author morgotth
+ * \date 2009
+ **/
 #include "tirdeplacement.h"
 #include "gfx/all_gfx.c" 
 #include "lotus.h" // inclusion de la musique de fond
@@ -165,6 +171,7 @@ void spaceInvaders()
 		PA_StartSpriteAnim(tabEnnemi0[i].numEcran,tabEnnemi0[i].numSprite,0,1,1);
 	}
 	
+
 	// 57-62 : Squid
 	for(i=12;i<nbEnnemi0;i++)
 	{
@@ -910,6 +917,7 @@ void spaceInvaders()
 			{
 				PA_VBLCounterStart(1); // reinitialisation du compteur d'étapes
 				debutParcours=0;
+
 				PA_OutputText(0,0,10,"NIVEAU 4 TERMINE !!!");
 			}
 			

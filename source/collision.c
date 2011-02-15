@@ -1,3 +1,9 @@
+/**
+ * iutLife O.6
+ * \file collision.c
+ * \author morgotth
+ * \date 2009
+ **/
 #include "collision.h"
 
 int sousPosition(int x,int y)

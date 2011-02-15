@@ -1,6 +1,6 @@
 
 Game developped with windows 7 and devkitpro/Palib for a first year school project.
-It's developed in C with french comments (i'm French :3) and probably not optimized with a very good code (i was beginner ;)).
-For try : use file.nds with an emulator (no$gba ?) or a linker.
+It's developed in C with french comments and not perfectible (i was beginner ;)).
+For try : use iutLife_0.6.nds with an emulator (no$gba ?) or a linker.
 Good game ;)
 
